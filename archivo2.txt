@@ -1,4 +1,9 @@
 hola como estas
 segunda serie
 tercero desde la rama1
+
 adicionado en main
+
+cuarto desde la rama2
+
+// despues de resolver conflicto
